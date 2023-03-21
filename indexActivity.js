@@ -5,7 +5,7 @@ let lastName = 'Facto';
 let age = 20;
 let hobbies = ['Gaming','Sleeping','Listening to Music','Watching yt Videos','Eating'];
 let homeAddress = {
-    houseNumber: 023,
+    houseNumber: 23,
     street: 'AveMaria',
     subdivision: 'Norvioric',
     barangay: 'SilanganII',
